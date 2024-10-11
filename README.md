@@ -18,7 +18,7 @@ A cross-platform application developed in Python using Tkinter, designed to simp
 
 ### Windows Installation
 
-<a href="app.exe" title="Download" download>Download</a>
+<a href="versions/app.exe" title="Download" download>Download</a>
 
 
 ### Libraries
