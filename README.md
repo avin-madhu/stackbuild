@@ -1,5 +1,5 @@
-<div align="center">
- <img alt="ollama" height="180px" style="border-radius: 20px" src="SB.jpeg">
+<div align="center" style = "border-radius: 100px">
+ <img alt="ollama" height="280px" style="border-radius: 50px" src="SB.jpeg">
 </div>
 
 
