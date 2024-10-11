@@ -33,6 +33,6 @@ Here are some example versions that can be downloaded:
 
 | Versions           | Size   | Download                       |
 | ------------------ | --- | ------------------------------ |
-| Stackbuild 1.0        | 26MB | [Download](app.exe)          |
+| Stackbuild 1.0        | 26MB | [Download](versions/app.exe)          |
 
 
