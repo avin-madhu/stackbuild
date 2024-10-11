@@ -6,12 +6,11 @@ from customtkinter import *
 
 
 # basic GUI setup
-# root = tk.Tk()
 root = ctk.CTk()
 root.title("Stackbuild")
 root.geometry("600x500")
-icon_path = os.path.join(os.path.dirname(__file__), 'assets', 'appicon.ico')
-appicon = root.iconbitmap(icon_path)
+# icon_path = os.path.join(os.path.dirname(__file__), 'assets', 'appicon.ico')
+# appicon = root.wm_iconbitmap(icon_path)
 set_appearance_mode("light")
 
 
