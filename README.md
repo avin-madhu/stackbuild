@@ -26,7 +26,7 @@ Here are some example versions that can be downloaded:
 
 | Versions           | Size   | Download                       |
 | ------------------ | ---    | ------------------------------ |
-| StackBuild 1.0     | 26 MB  | [Download](https://github.com/avin-madhu/stackbuild/archive/refs/tags/prototype.zip) |
+| StackBuild 1.0     | 40 MB  | [Download](https://github.com/avin-madhu/stackbuild/archive/refs/tags/prototype.zip) |
 
 
 ---
