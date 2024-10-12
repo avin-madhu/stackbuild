@@ -1,34 +1,33 @@
 <div align="center">
- <img alt="stackbuild" src="SB.jpeg" height="280px" style="border-radius: 10px;">
+    <img alt="stackbuild" src="SB.jpeg" height="280px" style="border-radius: 10px; max-width: 100%; height: auto;">
 </div>
 
 # StackBuild
 
-A cross-platform application developed in Python using Tkinter, designed to simplify the initialization of projects for popular web frameworks such as Next.js, Vue.js, and React Native. This tool provides a user-friendly GUI that allows users to quickly create and set up new projects without the need for command-line interaction.
+**StackBuild** is a cross-platform application developed in Python using Tkinter. It simplifies the initialization of projects for popular web frameworks such as Next.js, Vue.js, and React Native. This tool provides a user-friendly GUI that allows users to quickly create and set up new projects without the need for command-line interaction.
 
-### Windows Installation
+## Windows Installation
 
-[Downlaod for windows](https://github.com/avin-madhu/stackbuild/archive/refs/tags/prototype.zip)
+To download StackBuild for Windows, click the link below:
 
-```
-* After the download open the zip file 
-* go to `main` directory and extract the program file
-* Run the `app` executable file
-```
+[Download for Windows](https://github.com/avin-madhu/stackbuild/archive/refs/tags/prototype.zip)
 
+### Installation Steps
+1. After downloading, open the zip file.
+2. Navigate to the `main` directory and extract the program file.
+3. Run the `app` executable file.
 
-### Libraries
+### Libraries Used
+- [Customtkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable version of Tkinter.
 
-- [Customtkinter]()
-
-
-
-## Version library
+## Version Library
 
 Here are some example versions that can be downloaded:
 
 | Versions           | Size   | Download                       |
-| ------------------ | --- | ------------------------------ |
-| Stackbuild 1.0        | 26MB | [Download](versions/Stackbuild1.0.rar)          |
+| ------------------ | ---    | ------------------------------ |
+| StackBuild 1.0     | 26 MB  | [Download](https://github.com/avin-madhu/stackbuild/archive/refs/tags/prototype.zip) |
 
 
+---
+Feel free to contribute
