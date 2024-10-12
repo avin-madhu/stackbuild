@@ -18,10 +18,7 @@ A cross-platform application developed in Python using Tkinter, designed to simp
 
 ### Windows Installation
 
-[Downlaod for windows](https://github.com/avin-madhu/stackbuild/blob/main/versions/stackbuild1.0.rar)
-
-<a href="https://github.com/avin-madhu/stackbuild/blob/main/versions/stackbuild1.0.rar" title="Download" download>Download</a>
-
+[Downlaod for windows](https://github.com/avin-madhu/stackbuild/archive/refs/tags/prototype.zip)
 
 ### Libraries
 
