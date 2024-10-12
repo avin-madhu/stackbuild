@@ -18,7 +18,7 @@ A cross-platform application developed in Python using Tkinter, designed to simp
 
 ### Windows Installation
 
-<a href="versions/app.exe" title="Download" download>Download</a>
+<a href="versions/Stackbuild1.-0.rar" title="Download" download>Download</a>
 
 
 ### Libraries
@@ -33,6 +33,6 @@ Here are some example versions that can be downloaded:
 
 | Versions           | Size   | Download                       |
 | ------------------ | --- | ------------------------------ |
-| Stackbuild 1.0        | 26MB | [Download](versions/app.exe)          |
+| Stackbuild 1.0        | 26MB | [Download](versions/Stackbuild1.0.rar)          |
 
 
